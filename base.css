@@ -13,3 +13,5 @@ h1.titolo2 {color: AliceBlue}
 .titolo.maiuscolo {color: #334455; text-transform: uppercase}
 
 #titolo3 {color: #6600ff}
+
+div#container p {color: #660033}
