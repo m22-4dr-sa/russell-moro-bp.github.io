@@ -1,0 +1,13 @@
+/* https://www.w3schools.com/colors/colors_picker.asp */
+
+* {color: black}
+
+h1 {color: red}
+p {color: green}
+li {color: blue}
+
+.titolo {color: #334455}
+
+h1.titolo2 {color: AliceBlue}
+
+.titolo.maiuscolo {color: #334455; text-transform: uppercase}
