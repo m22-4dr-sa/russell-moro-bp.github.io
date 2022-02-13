@@ -16,6 +16,6 @@ h1.titolo2 {color: AliceBlue}
 
 div#container p {color: #660033}
 
-div > p {color: #ff1a8c}
+body > p {color: #ff1a8c}
 
 .titolo {color: #334455}
