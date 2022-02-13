@@ -15,3 +15,5 @@ h1.titolo2 {color: AliceBlue}
 #titolo3 {color: #6600ff}
 
 div#container p {color: #660033}
+
+body > p {color: #ff1a8c}
