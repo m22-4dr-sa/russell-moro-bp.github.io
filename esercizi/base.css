@@ -3,19 +3,27 @@
 * {color: black}
 
 h1 {color: red}
+/* h1, h2, h3 {color: red} */
+
 p {color: green}
 li {color: blue}
 
+/* . is for class attribute */
 .titolo {color: #334455}
 
 h1.titolo2 {color: AliceBlue}
 
 .titolo.maiuscolo {color: #334455; text-transform: uppercase}
 
-#titolo3 {color: #6600ff}
+/* # is for id attribute */
+#titolo3 {color: #6600ff} /* viola */
 
-div#container p {color: #660033}
+/* all p under div */
+div#container p {color: #ff0000} /* red */
 
-body > p {color: #ff1a8c}
+/* all p directly under body */
+body > p {color: #ffbf00}  /* orange */
+
+/* ex: p spam {color: red;} */
 
 
