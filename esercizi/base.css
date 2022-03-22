@@ -18,12 +18,12 @@ h1.titolo2 {color: AliceBlue}
 /* # is for id attribute */
 #titolo3 {color: #6600ff} /* viola */
 
-span {color: #ffff00;} /* yellow */
+span {color: #00ffff;} /* heavenly */
 
 /* all p under div */
 div#container p {color: #ff0000} /* red */
 
-/* all p directly under body */
+/* all p directly below body */
 body > p {color: #ffbf00}  /* orange */
 
 /* ex: p spam {color: red;} */
