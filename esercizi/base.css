@@ -1,32 +1,32 @@
 /* https://www.w3schools.com/colors/colors_picker.asp */
 
-* {color: black}
+* {color: black;}
 
-h1 {color: red}
+h1 {color: red;}
 /* h1, h2, h3 {color: red} */
 
-p {color: green}
-li {color: blue}
+p {color: green;}
+li {color: blue;}
 
 /* . is for class attribute */
-.titolo {color: #334455}
+.titolo {color: #334455;}
 
-h1.titolo2 {color: AliceBlue}
+h1.titolo2 {color: AliceBlue;}
 
-.titolo.maiuscolo {color: #334455; text-transform: uppercase}
+.titolo.maiuscolo {color: #334455; text-transform: uppercase;}
 
 /* # is for id attribute */
-#titolo3 {color: #6600ff} /* viola */
+#titolo3 {color: #6600ff;} /* viola */
 
 span {color: #00ffff;} /* heavenly */
 
 /* all p under div */
-div#container p {color: #ff0000} /* red */
+div#container p {color: #ff0000;} /* red */
 
 /* all p directly below body */
-body > p {color: #ffbf00}  /* orange */
+body > p {color: #ffbf00;}  /* orange */
 
 /* ex: p spam {color: red;} */
 
-.titolo-green {color: green}
-.titolo-blue {color: blue}
+.titolo-green {color: green;}
+.titolo-blue {color: blue;}
